@@ -2,7 +2,7 @@
 ### PostgreSQL
 
 This repository contains a PostgreSQL database schema, sample data (.csv) and SQL queries to manipulate with the given sample data.
-This is practice database to demonstrate proficiency in SQL with **joins, subqueries, window functions, conditional aggregation, and analytical queries**.** 
+This is practice database to demonstrate proficiency in SQL with **joins, subqueries, window functions, conditional aggregation, and analytical queries**.
 
 ---
 
