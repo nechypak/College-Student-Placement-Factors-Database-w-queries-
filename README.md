@@ -4,6 +4,10 @@
 This repository contains a PostgreSQL database schema, sample data (.csv) and SQL queries to manipulate with the given sample data.
 This is practice database to demonstrate proficiency in SQL with **joins, subqueries, window functions, conditional aggregation, and analytical queries**.
 
+>The dataset [`college_student_placement_dataset.csv`](data/college_student_placement_dataset.csv)  
+>is originally sourced from Kaggle, posted by [SAHIL ISLAM007](https://www.kaggle.com/sahilislam007) here:  
+>[College Student Placement Factors Dataset](https://www.kaggle.com/datasets/sahilislam007/college-student-placement-factors-dataset).
+
 ---
 
 ## Project Structure
